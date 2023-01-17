@@ -12,6 +12,7 @@
 name: Build MT1300 Plugin from GL-iNet
 
 on:
+  workflow_dispatch
   push: 
     branches:
       - main
